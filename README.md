@@ -3,7 +3,7 @@
 💼 Studying **Computer Science**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
-
+[![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)
 ---
 
 ### 🔧 Technologies I Work With  
@@ -11,7 +11,6 @@
 
 ---
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kareemotoum&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemotoum&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemotoum&layout=compact&theme=tokyonight) 
 
