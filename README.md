@@ -5,7 +5,6 @@
 Time Spent Coding:  
 [![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)  
 
-### 🚀 About Me  
 - 🌱 Currently learning: **C++ | Networking | Linux | Machine Learning | OpenCV**  
 - 🎯 My Read List: **High Performance C++ | Effective Modern C++ | TCP/IP Illustrated | Inside The Machine**
 
