@@ -1,9 +1,11 @@
-# Hi there! 👋 I'm Kareem
+# Hi there! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
 🎯 Passionate about **C++ | AI | Systems Programming**  
 💼 Studying **Computer Science**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
-[![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)
+Time Spent Coding:  
+[![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)  
+
+
 ---
 
 ### 🔧 Technologies I Work With  
