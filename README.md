@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
+# Hi! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kareem-al-otoum-703947255/)
 🎯 Passionate about **C++ | AI | Systems Programming** Hobbyist Game Developer  
 💼 Studying **Computer Science**  
 
