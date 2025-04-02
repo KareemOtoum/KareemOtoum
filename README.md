@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kareem
+🎯 Passionate about **C++ | AI | Systems Programming**  
+💼 Studying **Computer Science**  
 
-<!--
-**KareemOtoum/KareemOtoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I Work With  
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,ubuntu,python,cs,java,cmake,css,html,postgres,github,vscode,visualstudio,unity,arduino,opencv&perline=6)](https://skillicons.dev)
+
+---
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kareemotoum&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemotoum&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemotoum&layout=compact&theme=tokyonight) 
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
