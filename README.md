@@ -1,10 +1,13 @@
 # Hi there! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/kareem-al-otoum-703947255/)  
-🎯 Passionate about **C++ | AI | Systems Programming**  
+🎯 Passionate about **C++ | AI | Systems Programming** Hobbyist Game Developer  
 💼 Studying **Computer Science**  
 
 Time Spent Coding:  
 [![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)  
 
+### 🚀 About Me  
+- 🌱 Currently learning: **C++ | Networking | Linux | Machine Learning | OpenCV**  
+- 🎯 My Read List: **High Performance C++ | Effective Modern C++ | TCP/IP Illustrated | Inside The Machine**
 
 ---
 
@@ -14,7 +17,6 @@ Time Spent Coding:
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemotoum&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemotoum&layout=compact&theme=tokyonight) 
 
 ---
 
