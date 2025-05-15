@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kareem-al-otoum-703947255/)
-🎯 Passionate about **C++ | Low-Level Programming | Finance** Hobbyist Game Developer  
+🎯 Passionate about **C++ | Low-Level Programming | High Performance** Hobbyist Game Developer  
 💼 Studying **Computer Science**  
 
 Time Spent Coding:  
