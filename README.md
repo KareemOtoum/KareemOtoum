@@ -9,7 +9,7 @@ Time Spent Coding:
 ---
 
 ### 🔧 Technologies I Work With  
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,ubuntu,python,cs,java,cmake,css,html,postgres,github,vscode,visualstudio,unity,arduino,opencv&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,ubuntu,python,cs,java,cmake,css,html,postgres,github,unity&perline=7)](https://skillicons.dev)
 
 ---
 
