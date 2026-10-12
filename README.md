@@ -1,6 +1,7 @@
 # Hi! 👋 I'm Kareem [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kareem-al-otoum-703947255/)
-🎯 Passionate about **C++ | Systems Programming | High Performance** Hobbyist Game Developer  
-💼 Studying **Computer Science**  
+💼 Software Engineer Intern @ Hawk-Eye Innovations (Sony)  
+🎯 Passionate about **C++, High Performance, Algorithms**  
+👾 Hobbyist Game Developer, Philosopher, Competitive Programmer
 
 Time Spent Coding:  
 [![wakatime](https://wakatime.com/badge/user/1fec4655-9874-4bbf-af4d-b55066562b7a.svg)](https://wakatime.com/@1fec4655-9874-4bbf-af4d-b55066562b7a)  
