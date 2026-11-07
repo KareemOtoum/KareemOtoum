@@ -11,8 +11,4 @@ Time Spent Coding:
 ---
 
 ### 🔧 Technologies I Work With  
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,ubuntu,python,cs,java,cmake,css,html,postgres,github,unity&perline=7)](https://skillicons.dev)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareemotoum&show_icons=true&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,ubuntu,python,cs,java,cmake,css,html,postgres,docker,unity&perline=7)](https://skillicons.dev)
